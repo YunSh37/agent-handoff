@@ -121,3 +121,7 @@ python3 -m unittest discover -s . -v
 ## License
 
 MIT (`LICENSE`).
+
+## Support & Preset Packs
+
+Maintained by YunSh37 on Afdian: https://afdian.com/a/yunsh37
